@@ -4,10 +4,10 @@
 
 ```
 
-# INOVAT
+# INOVATE
 INOVAT (Iranian Network of Visionaries & Advanced Technologists) Toronto 2023 brings together Iranians in the tech industry and leading figures in North American business and technology. Entrepreneurs like Kooshiar Azimian and Martin Basiri share their insights on a platform with participation from startup-related businesses like venture capitalists, lawyers, mentors, accelerators and more. Additionally, selected startups will be able to pitch their ideas at this event. These diversified events promote collaboration and information exchange among the Iranian IT community worldwide.
 
-![DSC03488](https://github.com/amastaneh/inovat/assets/6195199/d33a4971-23f2-417f-96ee-01e0625852b1)
+![image](https://github.com/amastaneh/inovate/assets/6195199/053ed89c-76a6-4190-b0ca-c22f8da4575a)
 
 ## What We Do
 Our event is divided into three engaging sections: 
@@ -35,6 +35,10 @@ Our event is divided into three engaging sections:
 6. **Networking** (8:10 - 9)
     - Participant interaction
     - Partnership opportunities
+
+
+![DSC03488](https://github.com/amastaneh/inovat/assets/6195199/d33a4971-23f2-417f-96ee-01e0625852b1)
+
 
 ## Sponsorships Plan
 Find our customized Sponsorship Packages for businesses who provide relevant services to startups and SMEs. Our sponsorship choices, including Main and Premium, are designed to increase your visibility in the fast-paced IT industry.
